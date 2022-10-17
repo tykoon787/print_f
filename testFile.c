@@ -3,6 +3,7 @@
 
 int main(void)
 {
-	printf("Baby Panda\n");
+	printf("Baby Pandas are nice animals\n");
+	printf("Yes yes\n");
 	return (0);
 }
